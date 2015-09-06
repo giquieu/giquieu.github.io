@@ -3,24 +3,25 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
+# permalink:        pretty
+permalink:        /:categories/:title
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Giquieu Duarte Pereira
+tagline:          ''
+description:      'desenvolvedor apaixonado pelo que faz'
+# url:            ''
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Giquieu Duarte Pereira'
+  url:            https://twitter.com/giquieu
 
 paginate:         5
 
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
+# github:
+  # repo:           https://github.com/poole/hyde

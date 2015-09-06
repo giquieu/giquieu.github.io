@@ -6,7 +6,7 @@ title: About
 <p class="message">
   A única maneira de fazer um bom trabalho é amando o que você faz. Se você ainda não encontrou, continue procurando. 
   Não se desespere. Assim como no amor, você saberá quando tiver encontrado.
-  Steve Jobs
+  Steve Jobs.
 </p>
 
 ## Setup

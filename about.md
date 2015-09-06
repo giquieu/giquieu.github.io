@@ -17,4 +17,4 @@ Conheça o que estou usando aqui:
 * Mantido dentro do GitHub e hospedado gratuitamente no [GitHub Pages](https://pages.github.com)
 * "Codado" com [Atom](https://atom.io/)
 
-Obrigado por ler!
+Abraço!

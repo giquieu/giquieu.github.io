@@ -7,6 +7,9 @@ highlighter:      pygments
 permalink:        /:categories/:title
 relative_permalinks: true
 
+# Handling Reading
+encoding: "utf-8"
+
 # Setup
 title:            Giquieu Duarte Pereira
 tagline:          ''
